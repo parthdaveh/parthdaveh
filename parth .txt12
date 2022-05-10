@@ -1,0 +1,10 @@
+<html>
+   <head>
+    <title>linkdemo</title>
+</head>
+<body>
+      <a href="http://www.gogglemaps.com">googlemaps</a><hr/>
+      <a href="http://www.youtube.com" target="_blank">youtube</a><hr/>
+ </body>
+</html> 
+   
